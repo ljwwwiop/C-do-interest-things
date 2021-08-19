@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\note\redis_server_btree\redis_server_btree\main.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+d:\web\c++\vs2017workplace\note\redis_server_btree\redis_server_btree\main.cpp(209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\web\c++\vs2017workplace\note\redis_server_btree\redis_server_btree\main.cpp(261): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 参见“inet_ntoa”的声明
+d:\web\c++\vs2017workplace\note\redis_server_btree\redis_server_btree\main.cpp(244): warning C4101: “dwThreadId”: 未引用的局部变量
+  Redis_server_Btree.vcxproj -> D:\WEB\C++\vs2017workplace\note\Redis_server_Btree\Debug\Redis_server_Btree.exe
